@@ -1,0 +1,11 @@
+{
+  "name": "mpp",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-mpp"
+  },
+  "author": "jp",
+  "license": "ISC"
+}
